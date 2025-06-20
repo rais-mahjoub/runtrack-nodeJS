@@ -1,5 +1,7 @@
 const url = new URL("https://www.google.com/?search=nodejs");
 
+// let x = `http://localhost/${req.url}`
+
 // const google = "https://www.google.com&search=nodejs";
 
 const protocole = url.protocol;
